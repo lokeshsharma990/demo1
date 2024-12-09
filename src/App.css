@@ -1,0 +1,144 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f5f5f5;
+  margin: 0;
+  padding: 0;
+}
+.section-1{
+  background-color: white;
+  border-radius: 8px;
+  padding: 20px;
+  margin-bottom: 20px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.section-2{
+  background-color: white;
+  border-radius: 8px;
+  padding: 20px;
+  margin-bottom: 20px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}.addbtn {
+  width: 100%;
+  padding: 12px;
+  background-color: #222;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 16px;
+  transition: background-color 0.3s;
+}
+
+.addbtn:hover {
+  background-color: #444;
+}
+
+.add-button {
+  margin-left: 58px;
+  background-color: white;
+  border: 1px solid #ddd;
+  padding: 8px 12px;
+  border-radius: 4px;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  font-size: 14px;
+}
+
+.cart-icon {
+  margin-right: 5px;
+}
+input {
+  color: #666;
+  margin: 0;
+  font-size: 14px;
+}
+select{
+  color: #666;
+  margin: 0;
+  font-size: 14px;
+}
+.value {
+  font-size: 18px;
+  font-weight: bold;
+  margin: 5px 0 0;
+  color: black;
+}
+
+.container {
+  max-width: 400px;
+  margin: 20px auto;
+  padding: 20px;
+}
+h1 {
+  font-size: 24px;
+  margin: 0;
+}
+
+.hey{
+  color: #666;
+  margin: 0;
+  font-size: 14px;
+}
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 20px;
+}  
+
+
+select, input {
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 15px;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  box-sizing: border-box;
+  font-size: 16px;
+}
+.success-message{
+  color: green;
+  border: 1px solid green;
+  border-radius: 20px;
+  padding: 10px;
+  margin-bottom: 4px;
+  display: flex;
+  padding-left: 25px;
+  justify-self: center;
+  text-align: center;
+  
+}
+.nutri-title{
+  padding-bottom: 24px;
+  background-color: white;
+  
+  
+  max-width: 400px;
+  margin: 0 auto;
+}
+
+
+
+.header {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 60px;
+}
+
+.nutrition-info {
+  text-align: left;
+}
+.grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 16px 32px;
+}
+
+
+.label{
+  font-size: 16px;
+  margin-top: 0;
+  margin-bottom: 10px;
+}
