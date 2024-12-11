@@ -28,11 +28,11 @@ const foodData = {
     proteinPer100g: 0,
     fatPer100g: 0,
   },
-  cheese: {
-    caloriesPer100g: 311,
-    carbPer100g: 1.4,
-    proteinPer100g: 20,
-    fatPer100g: 25,
+  flour: {
+    caloriesPer100g: 340,
+    carbPer100g:72,
+    proteinPer100g: 13.2,
+    fatPer100g: 2.5,
   },
   banana: {
     caloriesPer100g: 89,
@@ -77,10 +77,10 @@ const foodData = {
     fatPer100g: 3.3,
   },
   soya: {
-    caloriesPer100g: 52,
-    carbPer100g: 6.9,
-    proteinPer100g: 12,
-    fatPer100g: 0.2,
+    caloriesPer100g: 345,
+    carbPer100g: 33,
+    proteinPer100g: 52,
+    fatPer100g: 1,
   },
   paneer: {
     caloriesPer100g: 343,
@@ -89,10 +89,10 @@ const foodData = {
     fatPer100g: 33,
   },
   whey: {
-    caloriesPer100g: 113,
-    carbPer100g: 5.1,
-    proteinPer100g: 25,
-    fatPer100g: 1.19,
+    caloriesPer100g: 366.4,
+    carbPer100g: 7.5,
+    proteinPer100g: 76,
+    fatPer100g: 3.6,
   },
   besan: {
     caloriesPer100g: 387,
